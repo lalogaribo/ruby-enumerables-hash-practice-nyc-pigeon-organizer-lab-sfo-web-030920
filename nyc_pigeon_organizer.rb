@@ -1,6 +1,3 @@
-def nyc_pigeon_organizer(data)
-  # write your code here!
-end
 
 
 # pigeon_data.each do |key, value|
@@ -12,3 +9,7 @@ end
 #       end
 #     end
 #   end
+
+def nyc_pigeon_organizer(data)
+  # write your code here!
+end
